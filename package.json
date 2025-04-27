@@ -1,0 +1,33 @@
+{
+    "name": "datehumanizer",
+    "version": "1.0.0",
+    "description": "A lightweight library to convert dates to human-readable formats",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "jest",
+        "lint": "eslint src"
+    },
+    "keywords": [
+        "date",
+        "time",
+        "human",
+        "relative",
+        "format",
+        "i18n",
+        "internationalization"
+    ],
+    "author": "Anuprita Mhapankar",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Anuprita579/datehumanizer.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Anuprita579/datehumanizer/issues"
+    },
+    "homepage": "https://github.com/Anuprita579/datehumanizer#readme",
+    "devDependencies": {
+        "eslint": "^8.57.1",
+        "jest": "^29.7.0"
+    }
+}
