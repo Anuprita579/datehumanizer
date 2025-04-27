@@ -1,7 +1,7 @@
 {
     "name": "datehumanizer",
     "version": "1.0.0",
-    "description": "A lightweight library to convert dates to human-readable formats",
+    "description": "Lightweight and fast JavaScript library to humanize dates and timestamps into natural language like '5 minutes ago', 'Yesterday', or 'in 3 hours'.",
     "main": "src/index.js",
     "scripts": {
         "test": "jest",
@@ -14,7 +14,20 @@
         "relative",
         "format",
         "i18n",
-        "internationalization"
+        "internationalization",
+        "date humanizer",
+        "relative time",
+        "time ago",
+        "lightweight date library",
+        "humanize date",
+        "human readable date",
+        "date formatter",
+        "timestamp to words",
+        "date to text",
+        "internationalization",
+        "i18n",
+        "javascript date format",
+        "friendly date display"
     ],
     "author": "Anuprita Mhapankar",
     "license": "MIT",
