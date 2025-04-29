@@ -1,6 +1,6 @@
 {
     "name": "datehumanizer",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Lightweight and fast JavaScript library to humanize dates and timestamps into natural language like '5 minutes ago', 'Yesterday', or 'in 3 hours'.",
     "main": "src/index.js",
     "scripts": {
