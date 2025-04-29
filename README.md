@@ -1,6 +1,6 @@
-<!-- [![NPM Version](https://img.shields.io/npm/v/datehumanizer.svg)](https://www.npmjs.com/package/datehumanizer) -->
-<!-- [![License](https://img.shields.io/npm/l/datehumanizer.svg)](https://github.com/Anuprita579/datehumanizer/blob/main/LICENSE) -->
-<!-- [![Downloads](https://img.shields.io/npm/dt/datehumanizer.svg)](https://www.npmjs.com/package/datehumanizer) -->
+[![NPM Version](https://img.shields.io/npm/v/datehumanizer.svg)](https://www.npmjs.com/package/datehumanizer) 
+[![License](https://img.shields.io/npm/l/datehumanizer.svg)](https://github.com/Anuprita579/datehumanizer/blob/main/LICENSE) 
+[![Downloads](https://img.shields.io/npm/dt/datehumanizer.svg)](https://www.npmjs.com/package/datehumanizer) 
 
 # DateHumanizer — Lightweight Library to Humanize Dates and Timestamps
 
